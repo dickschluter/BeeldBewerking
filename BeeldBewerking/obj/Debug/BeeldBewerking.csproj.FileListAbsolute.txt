@@ -1,0 +1,29 @@
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\bin\Debug\BeeldBewerking.exe
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\bin\Debug\BeeldBewerking.pdb
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\BeeldBewerking.Properties.Resources.resources
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\BeeldBewerking.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\BeeldBewerking.exe
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\BeeldBewerking.pdb
+C:\Documents and Settings\Eigenaar\Local Settings\Application Data\Temporary Projects\BeeldBewerking\obj\Debug\BeeldBewerking.Form1.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.exe
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.pdb
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\bin\Debug\BeeldBewerking.exe
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\bin\Debug\BeeldBewerking.pdb
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.Form1.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.Properties.Resources.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.FormSchermfoto.resources
+C:\Documents and Settings\Eigenaar\Mijn documenten\Visual Studio 2008\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.FormVergroting.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.pdb
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\bin\Debug\BeeldBewerking.exe
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\bin\Debug\BeeldBewerking.pdb
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.Form1.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.FormVergroting.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.Properties.Resources.resources
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dick\Documents\Visual Studio 2010\Projects\BeeldBewerking\BeeldBewerking\obj\Debug\BeeldBewerking.FormColorMatrix.resources
